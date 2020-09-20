@@ -1,6 +1,6 @@
 # EFI_Gigabyte_Z97x-Gaming3_4790K
 
-- opencore v0.6.1
+- Opencore v0.6.1
 - 支持MacOS Big sur
 - 主板：技嘉Z97x Gaming3
 - CPU: i7-4790k
